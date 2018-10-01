@@ -1,0 +1,45 @@
+#tr1 {
+	text-align: right;
+}
+
+body {
+	background-color: black;
+}	
+
+#linkA {
+	font-family: Segoe UI;
+	color: black;
+}
+
+#linkA:hover {
+	color: #919190;
+}
+
+h3 {
+	font-family: Segoe UI;
+}	
+
+a:link {
+	font-family: "nobel-bold",Helvetica,sans-serif;
+	font-weight: bold;
+	color: black;
+	text-decoration: none;
+}	
+
+a:visited {
+	color: blue;
+}	
+
+a:hover {
+	color: #919191;
+}	
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	background-color: gray;
+}	
+
+#td2 {
+	text-align: center;
+}
